@@ -109,65 +109,65 @@
 	<Import exportParty="false"/>
 	<Party destination="All" ShowAdvanceTools="false" append="false"/>
 	<Tree activeSpec="6">
-		<Spec masteryEffects="" title="Level 12" ascendClassId="3" nodes="64111,50459,57240,45035,54142,32662,41536,40813,465,62712,903,41250,3187,2715,25178,50338,9373" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
+		<Spec masteryEffects="" title="Level 12" ascendClassId="3" nodes="64111,50459,57240,45035,50338,32662,41536,40813,465,62712,903,41250,3187,9373,54142,2715,25178" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgIDD9-Yr-vTfn-WokCfbQHR9PgDh6EiDHMKm2JaxKIknQAA
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIDD9-Yr-vEon-WokCfbQHR9PgDh6EiDHMkndN-CptiWgAA
 			</URL>
 			<Sockets/>
 			<Overrides/>
 		</Spec>
-		<Spec masteryEffects="{38579,34563}" title="Level 28" ascendClassId="0" nodes="50459,63620,36221,12412,50338,3469,41536,62712,903,41250,3187,32802,41866,7263,57240,45035,54142,9206,25178,37504,9373,2715,19858,23449,60942,41137,25766,64769,465,38579,16236,23438,64709" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
+		<Spec masteryEffects="{38579,34563}" title="Level 28" ascendClassId="0" nodes="50459,63620,36221,12412,16236,38579,41536,62712,903,41250,3187,32802,41866,7263,23449,45035,54142,64709,25766,37504,9373,465,19858,57240,60942,41137,25178,64769,2715,3469,50338,23438,9206" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgIAIPiEjX0wfMSiDY2iQPT4A4ehIgxzgCKjihxf35iv69N-I_ZiWpKAJJ0Km02SW5nuDqCxZKb9AQHRlrM_bFuO_MUAAYcDlrM=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIAIPiEjX0wfD9slrOiQPT4A4ehIgxzgCKjihxfW5mv69N-_MVkppKAJJ0B0U2S35juDqCxYlr9AQqbDY3EoluOI_YAAYcDlrM=
 			</URL>
 			<Sockets/>
 			<Overrides/>
 		</Spec>
-		<Spec masteryEffects="{46761,29214},{65528,6462},{44316,34242},{5826,2198},{58302,9755},{1205,34563},{7488,62252}" title="Level 68" ascendClassId="3" nodes="13375,32117,1648,25067,36221,38947,58302,50338,3469,36287,63251,40813,64265,25260,27788,32802,65427,20480,41866,35851,49900,7263,23449,65528,65210,45035,2715,1697,8001,60942,41137,46761,20807,58968,22217,31359,47484,9206,50459,51101,49978,63620,18770,7488,17788,50690,4656,53114,12412,19069,25178,34678,14156,59866,11811,16236,6538,903,45202,62744,44988,42133,1205,5826,63194,59370,29454,64111,46277,12801,9355,57240,9373,63795,45593,25766,8938,19858,54142,57080,38995,6383,37663,49621,44316,37504,10843,1461,38662,20953,45329,60592,6799,64769,3187,32662,42104,23438,64709" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
+		<Spec masteryEffects="{46761,29214},{65528,6462},{44316,34242},{5826,2198},{58302,9755},{1205,34563},{7488,62252}" title="Level 68" ascendClassId="3" nodes="13375,32117,1648,25067,36221,38947,58302,50338,3469,36287,63251,40813,64265,25260,27788,32802,65427,20480,41866,35851,49900,7263,23449,65528,65210,6538,2715,1697,1205,60942,41137,46761,20807,58968,22217,31359,47484,9206,50459,51101,49978,63620,18770,7488,17788,50690,44988,53114,12412,23438,14156,34678,32662,59866,11811,3187,45035,903,45202,62744,6799,60592,45329,20953,63194,59370,29454,64111,38662,12801,9355,1461,10843,63795,45593,25766,44316,49621,37663,57080,38995,6383,54142,19858,8938,37504,9373,57240,46277,5826,8001,42133,4656,64769,16236,25178,42104,19069,64709" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgIDYTQ_fXUGcGHrjX2YI-O-xKINjY2_9xOfbfsJYqxsjIAi_5NQAKOKjAvC7BxfW5n_-P66r-sKmwahH0HuDqCxtqlRR-ZYVsl6f7l8I_bHncM6-IRJUh1ARXzGAhIwz3owfEp9YlqHdjdM6douIz9sGYoDh7CS9RivvKSVBLUWwvba5-pzDrTFMgEki9-YJJ35M7IZZKYi6k2S037e-JhTGO-TH8HVrRySgCpbBbWXBlHZsRHssBqP_QEMc3-WpHhbjvzFAAcmG-O-GT7_-HIetqnzLB1AhwMEtQiWFsKFwq0c
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIDYTQ_fXUGcGHrjX2YI-O-xKINjY2_9xOfbfsJYqxsjIAi_5NQAKOKjAvC7BxfW5n_-P66GYoKmwahBLXuDqCxtqlRR-ZYVsl6f7l8I_bHncM6-IRJUh1ARXzGAq-8z3owfFuON0yHdn-W6douIwxzr-sDh7CS9Rgaj-ywsRFR2fba5-pzDpcGMgEkiwW1Klv5M7IZZKatHMHVkx_e-JhTGO_Tfk2SIuqSgCSd35i0xRbCH0GklRIw_QE_bGJapHhKffzFAAcmG-O-GT7_-IcDBLVyHrap8ywdQIXCrRwIlhbC
 			</URL>
 			<Sockets/>
 			<Overrides/>
 		</Spec>
-		<Spec masteryEffects="{44316,34242},{41016,29214},{7488,62252},{58302,9755},{3571,64875},{5826,2198},{1205,34563},{31291,8018},{65528,57074}" title="2 Stones" ascendClassId="3" nodes="20953,32117,1648,41016,48614,52213,36221,61306,58302,16236,44988,4011,63251,40813,54354,23438,64265,56295,25260,36287,53324,27788,45329,32802,35255,42133,52904,65427,45593,9877,41866,2715,35851,49900,7263,9373,38947,65528,10843,65210,31291,8001,6538,5826,56509,54142,16079,1697,3676,3469,41137,49621,20807,58968,22217,31359,47484,9206,57080,31585,50459,51101,49978,17788,18770,7488,59606,60180,50690,3571,53114,6799,25766,14156,59866,17790,34678,11811,44316,4656,903,45202,3187,8938,39821,10840,9355,63194,12720,29454,64111,444,12801,23886,62744,25058,63293,59151,18182,25178,12412,16602,6383,38995,13935,37663,20480,13375,37504,1461,19858,46277,1205,36242,60592,36849,64769,32662,5823,42104,19069,64709" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
+		<Spec masteryEffects="{44316,34242},{1205,34563},{7488,62252},{41016,29214},{3571,64875},{5826,2198},{65528,57074},{31291,8018},{58302,9755}" title="2 Stones" ascendClassId="3" nodes="20953,32117,1648,41016,48614,52213,36221,61306,58302,16236,44988,4011,63251,40813,56295,19069,64265,54354,45329,5823,32662,27788,38947,32802,36849,60592,49900,65427,45593,9877,41866,1205,35851,52904,7263,2715,19858,65528,1461,65210,31291,6538,13375,20480,56509,37663,16079,1697,3676,36287,41137,49621,20807,58968,22217,31359,47484,9206,6383,16602,50459,51101,49978,12412,18770,7488,25178,31585,50690,3571,59606,6799,18182,14156,34678,17790,59866,11811,44316,3187,903,45202,4656,62744,39821,10840,23886,63194,29454,12720,64111,444,12801,9355,8938,25058,63293,59151,25766,53114,60180,17788,57080,38995,13935,54142,5826,25260,37504,10843,8001,46277,9373,36242,42133,35255,64769,3469,53324,42104,23438,64709" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgIDeFHZfXUGcKA4vebL9Y1973rjvj9sr7wPq_cTn23UUluO-wnb52Ksjb_QTGyMsRGAIom3pJXOqP-TshkmlaOKCpuMC8LsHF8knZgj__gqW_66ejsfQRmKFsLcvdN-Ps8GoQ5cDY2gscHVUUfmWFbJen-5fCP23vh7YcedwzpFfElSHUDo1usUxgIN8896Go9kpjdM6dpFfod2LiOtHBIwA4ewkgxzIuqbjSpYJIv22jGwcw4BvDIBXU71GGHi9z3nD0cGYlowfEDaGO-YUzZvkx9QADQ_koAFtU2StMUEtY2S7LCP8f0Bf5YWv6R4Sn38xQAJch6gOCYb477e8v_4H1J6OwiWFsLzLB1A_WsN84XCrRyHAwS1
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIDeFHZfXUGcKA4vebL9Y1973rjvj9sr7wPq_cTn23b50p9-wnUUrERFr9_lmyMmCOAIo_x7LDC7P-TshkmlaOKBLWMC86oHF8Km02S__gFtf66ejsZijQ_UADcvZMfPs8GoQ5cjb-gscHVUUfmWFbJen-5fCP2GO9A2sedwzowfElSHUBiWnthxgIN8-jWGo9HBjdMh3ZFfunaLiOtHAxzA4ewkhIw9RibjSpYXU722nMOMbABvDIBJIsi6mHi9z3nD2Smz3rrFEV83viYUzZv034WwmKskoAqWx9BtMUknY2SpJWJt_0BDY3QTKR4W478xQAJch6gOCYb476HAwS13vL_-B9SejvzLB1A_WsN84XCrRwIlhbC
 			</URL>
 			<Sockets>
 				<Socket nodeId="33753" itemId="29"/>
-				<Socket nodeId="32763" itemId="28"/>
-				<Socket nodeId="22748" itemId="33"/>
 				<Socket nodeId="18436" itemId="33"/>
+				<Socket nodeId="32763" itemId="28"/>
 				<Socket nodeId="6910" itemId="29"/>
+				<Socket nodeId="22748" itemId="33"/>
 			</Sockets>
 			<Overrides/>
 		</Spec>
-		<Spec masteryEffects="{44316,34242},{26148,57597},{7488,62252},{65528,57074},{31291,8018},{3571,64875},{5826,2198},{1205,34563},{58302,9755},{41016,29214}" title="4 Stones" ascendClassId="3" nodes="20953,32117,1648,41016,9373,48614,66841,52213,36221,54354,58302,53324,32662,36287,63251,40813,16079,65824,64265,66832,25260,33753,6910,27788,3469,23438,27656,56295,61306,65427,20480,32763,41866,13375,35851,49900,7263,52904,23449,65528,60592,6797,31291,65826,8001,22748,56509,1461,2715,1697,1205,65834,41137,25067,20807,22217,5826,31359,47484,9206,48099,49621,50459,51101,49978,6799,18770,7488,44316,31585,50690,3571,53114,12412,57080,16602,40362,17790,59866,11811,25178,3676,903,8938,3187,4656,39821,10840,23334,63194,12720,29454,64111,444,12801,45202,26148,62744,63293,59151,34678,14156,59606,17788,6383,38995,13935,54142,45329,60180,37504,10843,6538,46277,19858,36242,42133,65210,64769,45593,38947,42104,19069,64709" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
+		<Spec masteryEffects="{44316,34242},{26148,57597},{7488,62252},{65528,57074},{31291,8018},{3571,64875},{5826,2198},{41016,29214},{58302,9755},{1205,34563}" title="4 Stones" ascendClassId="3" nodes="13375,32117,1648,41016,10843,53324,66841,52213,36221,54354,58302,16079,32662,36287,63251,40813,8001,6910,64265,33753,25260,66832,65824,27788,7488,19069,27656,38947,45593,65427,20480,32763,41866,48614,35851,49900,7263,65210,23449,65528,42133,6797,31291,65826,19858,22748,56509,6538,2715,1697,1205,65834,41137,3469,20807,60180,5826,31359,47484,49621,45329,9206,50459,51101,49978,12412,18770,48099,11811,31585,50690,3571,53114,6799,6383,16602,40362,17790,59866,44316,17788,59606,903,8938,3187,14156,39821,10840,23334,63194,34678,12720,64111,444,12801,45202,63293,62744,26148,59151,29454,4656,3676,25178,57080,38995,13935,54142,61306,22217,37504,1461,56295,46277,52904,36242,60592,9373,64769,25067,20953,42104,23438,64709" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgIDdVHZfXUGcKA4JJ295sv1jX3UUuO-0Ex_lo2_9xOfbT7P-wlirIPZGv5sjA2NW45sCNvn73r_k1AAf_ujijQ_jAvC7Bxfzqhbmf_47LAajXo7H0FY3Ny9BbUKmwahBLWgsWHrUUdWyRbCen-5fCP2u-PB1cedwzoaj0lSHUCtHHthxgIN8896MHze-EDanapFfunaLiNiWg5cA4ci6gxzEjCbjSpYWyb22jGwcw4BvDIBsJJmJPUY9z3nD4d2N0zo1kV8GO-YUzZv036xEesUkoAqWxmKtMVNko2SpJX-uv0BshmYI6R4Sn38xQUFGQEgBRABIgEqCnIeoDgmG-O-3vL_-B9SejuHAwS1CJYWwvMsHUCFwq0c_WsN8-D9ZiQ=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIDdTQ_fXUGcKA4KlvQTMv1jX3UUuO-Ps9_lo2_9xOfbR9BGv77CYPZYqxsjB1ASn1sCJgjshn_k1AAf_ujir3mjAvC7Bxf_rpbmf_4pJUajXo7TZJY3Ny9GYoKmwahBLWgsQ2NUUfrFBbCen-5fMHVsREj9sedwzowfElSu-MuI3thxgIN8896Go8Y70DanapFfunarRxFfOjWA4ci6gxzN0ybjSpYWyb22od2MbABvDIBsJL3PfUYZiTnD3MOEjAOXGJa3viYUzZv037velbJkoAFtdvntMXOqI2S7LAknf0BYetR2aR4W478xQUFGQUQASABIgEqCnIeoDgmG-O-8ywdQN7y__gfUno7hwMEtQiWFsL9aw3zhcKtHOD9ZiQ=
 			</URL>
 			<Sockets>
-				<Socket nodeId="61834" itemId="33"/>
 				<Socket nodeId="33753" itemId="29"/>
-				<Socket nodeId="18436" itemId="33"/>
+				<Socket nodeId="61834" itemId="33"/>
 				<Socket nodeId="32763" itemId="28"/>
-				<Socket nodeId="60735" itemId="33"/>
 				<Socket nodeId="22748" itemId="33"/>
+				<Socket nodeId="60735" itemId="33"/>
 				<Socket nodeId="6910" itemId="33"/>
+				<Socket nodeId="18436" itemId="33"/>
 			</Sockets>
 			<Overrides/>
 		</Spec>
-		<Spec masteryEffects="{44316,34242},{41016,29214},{7488,62252},{3571,64875},{31291,8018},{65528,57074},{5826,2198},{28903,64264},{58302,9755},{1205,62897}" title="Pinnacles" ascendClassId="3" nodes="20953,32117,1648,5826,1205,20127,41016,22748,66832,53324,66841,52213,36221,38947,58302,50338,32662,36287,63251,40813,65824,65817,64265,33753,25260,18436,65808,27788,48099,19069,56295,31585,13375,65427,20480,32763,41866,54354,35255,49900,7263,3469,31291,65528,1697,6797,6538,65826,65210,52714,56509,10843,2715,19858,8001,65834,41137,61306,20807,49621,22217,31359,6910,9206,51101,53114,50459,61834,49978,6383,18770,7488,16602,17788,50690,3571,59606,12412,34678,14156,40362,17790,59866,44316,4656,62744,903,8938,3187,12720,39821,10840,23334,63194,37785,29454,64111,444,12801,23886,27656,52904,63293,59151,18182,45202,25178,6799,57080,38995,13935,54142,45593,28903,37504,9373,1461,46277,3676,36242,42133,36849,64769,45329,25067,42104,23438,64709" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
+		<Spec masteryEffects="{44316,34242},{41016,29214},{7488,62252},{3571,64875},{31291,8018},{65528,57074},{5826,2198},{1205,62897},{58302,9755},{28903,64264}" title="Pinnacles" ascendClassId="3" nodes="13375,32117,1648,61834,19858,46277,41016,65808,18436,53324,66841,52213,36221,54354,58302,50338,32662,36287,63251,40813,33753,65817,64265,65824,25260,66832,22748,27788,7488,23438,56295,25067,45329,65427,20480,32763,41866,61306,36849,49900,7263,6538,65210,65528,3676,6797,31291,65826,1461,52714,56509,9373,2715,1697,8001,65834,41137,28903,20807,45593,22217,31359,6910,9206,49621,59606,50459,51101,49978,57080,18770,48099,6799,17788,50690,3571,53114,12412,25178,16602,40362,17790,34678,44316,45202,3187,903,8938,4656,29454,39821,10840,23334,63194,12801,12720,64111,444,37785,23886,52904,27656,63293,59151,18182,62744,59866,14156,6383,38995,13935,54142,5826,20953,37504,10843,3469,20127,1205,36242,42133,35255,64769,31585,38947,42104,19069,64709" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgIDd1HZfXUGcBbCBLVOn6A4WNzQTMv1jX2YI-O-xKJ_lo2_9xOfbfsJg9lirEgEbIy740p92-d7YTQ__5NQAH_7o4rUUom3wuwcXw2Nejv_-AahGo0Ziv66zercvSpbCptNkh9BoLHvelFHwdVWyXp_Gv4j9sedz3rxisM6GO9JUh1AQNpFfMYCDfPo1jB8h3Y3TJ2qRX7p2q0cEjD1GAOHIuoMczGwm40qWFsm9tqTmXMOAbwyAV1ObAjOqPc95w9HBrCSYloaj974mFM2b9N-shlw55KAJJ0FtbTFDlyNkqSVj_H9AbERYeukeFuO_MUHBRAFGQEgARkBEAEiASoKCJYWwvWxBLVyHqA4Jhvjvh9Sejve8v_48ywdQP1rDfOFwq0c-whw5w==
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIDdzQ_fXUGcPGKTZK0xaA4SATQTMv1jX3UUuO-xKJ_lo2_9xOfbYPZ-wlirFjcbIwdQFuO2-dh67ER_5NQAH_7o4rveo_xwuwcXxmK_rr_-A5cGo16OwW1zercvSSdCpsGoR9BoLFw51FHshlWyXp_Gv4j9sHV6NbHncM63vhJUrvjGo9FfMYCDfPPejB8YlpA2p2qRX6Hdq0csJIMcwOHIuoSMHMOm40qWFsm9toyATGwAbyTmV1OzqhsCPc95w9HBvUY6do3TBjvmFM2b9N-FsJR2ZKAKlsNjU6fBLWNkqSVibf9AXthmCOkeEp9_MUHARAFGQEZASAFEAEiASoKch6gOCYb477zLB1A3vL_-B9Sejv7CHDn_WsN84XCrRwIlhbC9bEEtQ==
 			</URL>
 			<Sockets>
 				<Socket nodeId="61834" itemId="52"/>
 				<Socket nodeId="33753" itemId="51"/>
-				<Socket nodeId="32763" itemId="28"/>
-				<Socket nodeId="22748" itemId="52"/>
 				<Socket nodeId="18436" itemId="52"/>
+				<Socket nodeId="22748" itemId="52"/>
+				<Socket nodeId="32763" itemId="28"/>
 				<Socket nodeId="6910" itemId="51"/>
 			</Sockets>
 			<Overrides>
@@ -176,19 +176,19 @@
 				</Override>
 			</Overrides>
 		</Spec>
-		<Spec masteryEffects="{28903,64264},{41016,29214},{3571,64875},{44316,34242},{5826,2198},{4707,29652},{31291,8018},{7488,62252}" title="Frenzy Swap Endgame" ascendClassId="3" nodes="13375,1648,5237,41016,48614,52213,54354,64265,27788,58921,41866,52904,7263,65210,23066,2715,1697,28903,20807,22217,9206,51101,7488,3314,17788,50690,3571,59606,29937,25178,17790,26528,45202,62744,10840,23334,63194,12720,64111,444,42443,63293,59151,18182,23951,65824,13935,54142,37504,10843,42133,35255,8544,64709,20953,32117,4707,65817,53324,36221,38947,32662,36287,63251,18436,45329,65427,57449,32763,49900,23449,6363,6797,31291,65826,56509,16079,19858,3676,65834,41137,5826,31359,6910,50459,61834,49978,18770,6799,16602,34678,44316,903,8938,16213,39821,33753,65808,19069,61306,56295,6538,12801,20480,9373,60735,16544,3187,54127,8001,29454,18103,6383,38995,11811,14156,12412,53114,31585,1461,23471,46277,45593,36242,25260,58271,64769,27656,3469,14292,23438,40813" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
+		<Spec masteryEffects="{28903,64264},{41016,29214},{3571,64875},{44316,34242},{5826,2198},{4707,29652},{31291,8018},{7488,62252}" title="Frenzy Swap Endgame" ascendClassId="3" nodes="13375,1648,5237,41016,48614,52213,54354,64265,27788,58921,41866,52904,7263,65210,23066,2715,1697,28903,20807,22217,9206,51101,7488,3314,31585,50690,3571,53114,29937,14156,17790,26528,45202,3187,10840,23334,63194,29454,64111,444,42443,63293,59151,18182,23951,65824,13935,54142,37504,9373,42133,35255,8544,64709,20953,32117,4707,65817,53324,36221,61306,32662,36287,63251,18436,45329,65427,45593,32763,49900,23449,6363,6797,31291,65826,56509,16079,19858,3676,65834,41137,5826,31359,6910,50459,61834,49978,18770,12412,16602,34678,11811,903,8938,16213,39821,65808,33753,19069,38947,58271,57449,12801,8001,10843,44316,16544,62744,56295,6538,12720,20480,6383,38995,60735,25178,6799,59606,17788,1461,54127,46277,18103,36242,23471,25260,64769,27656,3469,14292,23438,40813" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgIDfTQ_BnAUdaA4vebL9dRS-wlsjOYpo4rOqBxf_rpaGgqbBqFw51FHVskj9sedHUAM8kV8xgIN8-jWdPFiWkV-Z6CwkvUYKlhbJvbaMbABvKXL9z3nD0cGXY82b9N-koAqW6SVibchYPzFUdl9dRJj0EyNfZgjf5aNv_cTSASxEf-T4Gl_-8LsW5kY2xqNejvcvT7PTZIOXKCxFsJ6fxr-8YrDOklSGo9A2od2rRwDhyLqP1WbjYPZSn3vetvnGYoyAVAAJJ3tP0CgDHPTbx9Bcw5GtxjvmFMuIzdMMHzPenthBbVbr7TFshmNkmKs45_9AWwIDY031FuOn20FASABGQEiASoBEAhyHqA4-whw5_MsHUD9aw3zc9QSYx9SejsIlhbChcKtHA==
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIDfTQ_BnAUdaA4vebL9dRS-wlsjOYpo4rOqBxf_rpaGgqbBqFw51FHVskj9sedHUAM8nthxgIN8896dPE3TEV-Z6CwkgxzKlhbJvbacw4BvKXL9z3nD0cGXY82b9N-koAknaSVibchYPzFUdl9dRJj0EyNfe96f5aNv_cTSASxEf-Tshl_-8LsW5kY2xqNejvcvT7PTZIOXKCxFsJ6fxr-8YrDOklSMHxA2od2LiMDhyLqP1WbjYPZSn2YI-Of4GkyAR9BKlutHECg9Rjb5xmKMbBQABjvmFPtP2JaGo_o1kV8BbXTb7TFRreNkluvYqz9AWwIDY031FuOn20FASABGQEiASoBEAhyHqA4-whw5_MsHUD9aw3zc9QSYx9SejsIlhbChcKtHA==
 			</URL>
 			<Sockets>
 				<Socket nodeId="61834" itemId="74"/>
 				<Socket nodeId="54127" itemId="71"/>
-				<Socket nodeId="60735" itemId="73"/>
-				<Socket nodeId="32763" itemId="67"/>
-				<Socket nodeId="22748" itemId="52"/>
-				<Socket nodeId="18436" itemId="69"/>
 				<Socket nodeId="33753" itemId="70"/>
+				<Socket nodeId="32763" itemId="67"/>
+				<Socket nodeId="18436" itemId="69"/>
+				<Socket nodeId="22748" itemId="52"/>
 				<Socket nodeId="6910" itemId="29"/>
+				<Socket nodeId="60735" itemId="73"/>
 			</Sockets>
 			<Overrides>
 				<Override dn="Tattoo of the Ramako Shaman" icon="Art/2DArt/SkillIcons/passives/SpellSuppresionNode.png" nodeId="16544" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/RamakoTribePassiveBG.png">
@@ -196,24 +196,24 @@
 				</Override>
 			</Overrides>
 		</Spec>
-		<Spec masteryEffects="{41016,29214},{1205,64264},{4707,29652},{3571,64875},{5826,2198},{53615,61097},{31291,8018},{7488,62252}" title="MeatSack Farmer" ascendClassId="3" nodes="13375,23471,5237,41016,48614,52213,27656,64265,27788,58921,57011,41866,52904,7263,39861,33989,65210,23066,22748,2715,1697,8001,20807,9206,51101,7488,3314,31585,50690,3571,53114,29937,25178,33753,26528,45202,62744,10840,23334,63194,12720,64111,66832,42443,63293,59151,18182,23951,65824,13935,54142,37504,10843,42133,35255,8544,64709,20953,32117,4707,53324,66841,36221,38947,56295,36287,63251,14292,65485,45329,64882,65427,20480,32763,49900,23449,6363,6797,6538,65826,56509,16079,19858,1205,65834,41137,5826,6910,50459,61834,49978,18770,6799,16602,34678,60735,903,8938,16213,39821,23438,61306,25260,12801,32690,18103,3469,16544,9373,3187,53615,444,29454,45593,38995,17790,14156,12412,59606,17788,1461,31291,46277,3676,36242,57449,40813,64769,54127,58271,32662,19069,54354" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
+		<Spec masteryEffects="{41016,29214},{1205,64264},{4707,29652},{3571,64875},{5826,2198},{53615,61097},{31291,8018},{7488,62252}" title="MeatSack Farmer" ascendClassId="3" nodes="13375,23471,5237,41016,48614,52213,54354,64265,27788,58921,57011,41866,52904,7263,39861,33989,65210,23066,22748,2715,1697,8001,20807,9206,51101,7488,3314,17788,50690,3571,59606,29937,14156,33753,26528,45202,3187,10840,23334,63194,29454,64111,66832,42443,63293,59151,18182,23951,65824,13935,54142,37504,9373,42133,35255,8544,64709,20953,32117,4707,53324,66841,36221,53615,32662,36287,63251,14292,65485,45329,64882,65427,20480,32763,49900,18103,6363,6797,31291,65826,56509,16079,19858,3676,65834,41137,5826,6910,50459,61834,49978,18770,12412,16602,34678,60735,903,8938,16213,39821,23438,38947,40813,12801,3469,23449,45593,16544,10843,62744,61306,444,12720,32690,38995,17790,25178,6799,53114,31585,1461,25260,46277,1205,36242,6538,57449,64769,54127,58271,56295,19069,27656" secondaryAscendClassId="nil" treeVersion="3_26" classId="2">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgIDfjQ_W68UdaA4vebL9WwI-wlsjOYp3rOjis6oHF-btYTF_rpaGljcCpsGoR9BUUcj9sedHUAM8nthxgIN8896dPFiWoPZZ6CwkvUYKlhbJvbaMbCly_c95w9HBl2PNm_TfpKAKluklYm3IWD8xVHZfXUSY9BMjX2YI9vnjb_3EzfU_82xEf1y_5NQAH_7wuxbmRjbGo0Zity9Ps9NkgS1oLEWwhr-8YrDOklSGo9A2od27T8DhyLqP1WbjVuO73pirDIBf7JGtw2NQKAknQxz0W8BvHMOshmYU0V-N0wwfOjWRXwFtXo7tMUOXI2S4Gmfbf0B02_jn3-WSn3UUgUFEAEgBRkBIgEqCHIeoDjzLB1A_WsN83PUEmP7CAS1CJYWwu6p0W8fUno7
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIDfjQ_W68UdaA4vebL9dRS-wlsjOYp3rOjis6oHF-btYTF_rpaGljcCpsGoR9BUUcj9sedHUAM8kV8xgIN8-jWdPE3TIPZZ6CwkgxzKlhbJvbacw6ly_c95w9HBl2PNm_TfpKAJJ2klYm3IWD8xVHZfXUSY9BMjX3Rb3-Wjb_3EzfU_82xEf1y_5NQAH_7wuxGtxjbGo16O9y9Ps9Nkg5coLEWwhr-8YrDOklSMHxA2od27T8DhyLqP1WbjVuOmCOfbTIBDY1bmbIZQKAqW_UY73oBvDGwf7KYU0V-Yloaj896e2EFtWKstMUEtY2SGYrgaf0B02_jn9vnSn1sCAUFEAEgBRkBIgEqCHIeoDjzLB1A_WsN83PUEmPuqdFvH1J6OwiWFsL7CAS1
 			</URL>
 			<Sockets>
-				<Socket nodeId="54127" itemId="96"/>
-				<Socket nodeId="18436" itemId="69"/>
 				<Socket nodeId="33753" itemId="94"/>
-				<Socket nodeId="22748" itemId="88"/>
-				<Socket nodeId="33989" itemId="95"/>
-				<Socket nodeId="60735" itemId="89"/>
 				<Socket nodeId="61834" itemId="90"/>
-				<Socket nodeId="6910" itemId="87"/>
 				<Socket nodeId="32763" itemId="86"/>
+				<Socket nodeId="54127" itemId="96"/>
+				<Socket nodeId="33989" itemId="95"/>
+				<Socket nodeId="18436" itemId="69"/>
+				<Socket nodeId="60735" itemId="89"/>
+				<Socket nodeId="6910" itemId="87"/>
+				<Socket nodeId="22748" itemId="88"/>
 			</Sockets>
 			<Overrides>
-				<Override dn="Tattoo of the Tasalio Warrior" icon="Art/2DArt/SkillIcons/passives/AttackBlindNode.png" nodeId="49900" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/TasalioTribePassiveBG.png">
-					5% chance to Blind Enemies on Hit with Attacks
+				<Override dn="Tattoo of the Tasalio Tideshifter" icon="Art/2DArt/SkillIcons/passives/stundex.png" nodeId="8938" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/TasalioTribePassiveBG.png">
+					10% chance to Avoid being Stunned
 				</Override>
 				<Override dn="Tattoo of the Tasalio Tideshifter" icon="Art/2DArt/SkillIcons/passives/stundex.png" nodeId="39861" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/TasalioTribePassiveBG.png">
 					10% chance to Avoid being Stunned
@@ -230,8 +230,8 @@
 				<Override dn="Tattoo of the Ramako Shaman" icon="Art/2DArt/SkillIcons/passives/SpellSuppresionNode.png" nodeId="16544" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/RamakoTribePassiveBG.png">
 					+2% chance to Suppress Spell Damage
 				</Override>
-				<Override dn="Tattoo of the Tasalio Tideshifter" icon="Art/2DArt/SkillIcons/passives/stundex.png" nodeId="8938" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/TasalioTribePassiveBG.png">
-					10% chance to Avoid being Stunned
+				<Override dn="Tattoo of the Tasalio Warrior" icon="Art/2DArt/SkillIcons/passives/AttackBlindNode.png" nodeId="49900" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/TasalioTribePassiveBG.png">
+					5% chance to Blind Enemies on Hit with Attacks
 				</Override>
 			</Overrides>
 		</Spec>
@@ -399,7 +399,7 @@ Put sentinel jacket on  your filter and vaal them for proj gems or aoe gems and 
 				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemFrostblink" variantId="Frostblink" skillId="Frostblink" quality="0" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Frostblink"/>
 			</Skill>
 			<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
-				<Gem enableGlobal2="true" level="21" gemId="Metadata/Items/Gems/SkillGemPoisonousConcoction" variantId="PoisonousConcoctionAltX" skillId="PoisonousConcoctionAltX" quality="20" skillPart="2" qualityId="Default" enableGlobal1="true" enabled="true" count="14" nameSpec="Poisonous Concoction of Bouncing"/>
+				<Gem enableGlobal2="true" skillPartCalcs="1" level="21" gemId="Metadata/Items/Gems/SkillGemPoisonousConcoction" variantId="PoisonousConcoctionAltX" skillId="PoisonousConcoctionAltX" quality="20" skillPart="2" qualityId="Default" enableGlobal1="true" enabled="true" count="14" nameSpec="Poisonous Concoction of Bouncing"/>
 				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemUnboundAilments" variantId="SupportUnboundAilments" skillId="SupportUnboundAilments" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Unbound Ailments"/>
 				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles" variantId="SupportGreaterMultipleProjectiles" skillId="SupportGreaterMultipleProjectiles" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Greater Multiple Projectiles"/>
 				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemGreaterVolley" variantId="SupportGreaterVolley" skillId="SupportGreaterVolley" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Greater Volley"/>
@@ -498,7 +498,7 @@ Put sentinel jacket on  your filter and vaal them for proj gems or aoe gems and 
 	</Skills>
 	<Calcs>
 		<Input name="misc_buffMode" string="EFFECTIVE"/>
-		<Input name="skill_number" number="3"/>
+		<Input name="skill_number" number="2"/>
 		<Section subsection="ViewSkillDetails" collapsed="false" id="SkillSelect"/>
 		<Section subsection="SkillHitDamage" collapsed="false" id="HitDamage"/>
 		<Section subsection="ExertingWarcries" collapsed="false" id="Warcries"/>
@@ -549,7 +549,7 @@ Put sentinel jacket on  your filter and vaal them for proj gems or aoe gems and 
 		<Section subsection="DotsandBuildDegens" collapsed="false" id="DamageTaken"/>
 		<Section subsection="EnemyDegens" collapsed="true" id="DamageTaken"/>
 	</Calcs>
-	<TreeView searchStr="entrench" zoomY="-568.22456968723" zoomLevel="7" showStatDifferences="true" zoomX="-1047.3052861926"/>
+	<TreeView searchStr="entrench" zoomY="-10.187141406025" zoomLevel="6" showStatDifferences="true" zoomX="-1116.4210718272"/>
 	<Items activeItemSet="6" showStatDifferences="true" useSecondWeaponSet="false">
 		<Item id="1">
 			Rarity: RARE
@@ -1735,7 +1735,7 @@ Implicits: 0
 {variant:2}Minimum Endurance Charges equal to Maximum while stationary
 {variant:2}Minimum Frenzy Charges equal to Maximum while stationary
 {variant:2}Minimum Power Charges equal to Maximum while stationary
-{variant:3,4}Count as having maximum number of Frenzy Charges
+{variant:4,3}Count as having maximum number of Frenzy Charges
 25% increased movement speed
 			<ModRange range="0.5" id="1"/>
 			<ModRange range="0.5" id="2"/>
@@ -3846,7 +3846,7 @@ Implicits: 0
 {range:0.5}+(15-25)% to Cold Resistance
 {range:0.5}+(15-25)% to Chaos Resistance
 25% increased Movement Speed
-{variant:3,4}Count as having maximum number of Frenzy Charges
+{variant:4,3}Count as having maximum number of Frenzy Charges
 			<ModRange range="0.5" id="1"/>
 			<ModRange range="0.5" id="2"/>
 			<ModRange range="0.5" id="3"/>
@@ -6375,19 +6375,19 @@ Nearby Enemies Convert 25% of their Physical Damage to Fire
 			<Placeholder name="enemyColdResist" number="40"/>
 			<Placeholder name="enemyLightningResist" number="40"/>
 			<Placeholder name="enemyChaosDamage" number="22"/>
-			<Placeholder name="enemyPhysicalDamage" number="56"/>
 			<Placeholder name="enemyDamageRollRange" number="70"/>
 			<Placeholder name="ScorchStacks" number="1"/>
 			<Placeholder name="sigilOfPowerStages" number="1"/>
 			<Placeholder name="enemyArmour" number="405"/>
+			<Placeholder name="enemyPhysicalDamage" number="56"/>
 			<Placeholder name="enemyCritDamage" number="30"/>
 			<Placeholder name="enemyEvasion" number="896"/>
 			<Placeholder name="ShockStacks" number="1"/>
 		</ConfigSet>
 		<ConfigSet title="Level 68" id="3">
 			<Input name="enemyIsBoss" string="Boss"/>
-			<Input name="skillChainCount" number="6"/>
 			<Input name="multiplierWitheredStackCount" number="15"/>
+			<Input name="skillChainCount" number="6"/>
 			<Input name="customMods" string="+200 to all resistances"/>
 			<Placeholder name="enemySpeed" number="700"/>
 			<Placeholder name="enemyChaosResist" number="25"/>
@@ -6400,11 +6400,11 @@ Nearby Enemies Convert 25% of their Physical Damage to Fire
 			<Placeholder name="enemyColdResist" number="40"/>
 			<Placeholder name="enemyLightningResist" number="40"/>
 			<Placeholder name="enemyChaosDamage" number="204"/>
-			<Placeholder name="enemyPhysicalDamage" number="509"/>
 			<Placeholder name="enemyDamageRollRange" number="70"/>
 			<Placeholder name="ScorchStacks" number="1"/>
 			<Placeholder name="sigilOfPowerStages" number="1"/>
 			<Placeholder name="enemyArmour" number="12009"/>
+			<Placeholder name="enemyPhysicalDamage" number="509"/>
 			<Placeholder name="enemyCritDamage" number="30"/>
 			<Placeholder name="enemyEvasion" number="4739"/>
 			<Placeholder name="ShockStacks" number="1"/>
@@ -6412,10 +6412,10 @@ Nearby Enemies Convert 25% of their Physical Damage to Fire
 		<ConfigSet title="2 Stones" id="4">
 			<Input name="useEnduranceCharges" boolean="true"/>
 			<Input name="pantheonMajorGod" string="TheBrineKing"/>
-			<Input name="multiplierWitheredStackCount" number="15"/>
-			<Input name="useFrenzyCharges" boolean="true"/>
-			<Input name="skillChainCount" number="6"/>
 			<Input name="bloodSandStance" string="SAND"/>
+			<Input name="skillChainCount" number="6"/>
+			<Input name="useFrenzyCharges" boolean="true"/>
+			<Input name="multiplierWitheredStackCount" number="15"/>
 			<Input name="multiplierPoisonOnEnemy" number="10"/>
 			<Input name="pantheonMinorGod" string="Garukhan"/>
 			<Placeholder name="enemySpeed" number="700"/>
@@ -6431,7 +6431,7 @@ Nearby Enemies Convert 25% of their Physical Damage to Fire
 			<Placeholder name="enemyLightningPen" number="3"/>
 			<Placeholder name="enemyLightningResist" number="50"/>
 			<Placeholder name="enemyChaosDamage" number="896"/>
-			<Placeholder name="enemyFirePen" number="3"/>
+			<Placeholder name="enemyEvasion" number="10143"/>
 			<Placeholder name="enemyCritDamage" number="30"/>
 			<Placeholder name="enemyColdPen" number="3"/>
 			<Placeholder name="ScorchStacks" number="1"/>
@@ -6439,15 +6439,15 @@ Nearby Enemies Convert 25% of their Physical Damage to Fire
 			<Placeholder name="enemyArmour" number="61989"/>
 			<Placeholder name="sigilOfPowerStages" number="1"/>
 			<Placeholder name="enemyPhysicalDamage" number="2241"/>
-			<Placeholder name="enemyEvasion" number="10143"/>
+			<Placeholder name="enemyFirePen" number="3"/>
 			<Placeholder name="ShockStacks" number="1"/>
 		</ConfigSet>
 		<ConfigSet title="4 Stones" id="5">
-			<Input name="multiplierWitheredStackCount" number="16"/>
-			<Input name="useEnduranceCharges" boolean="true"/>
-			<Input name="useFrenzyCharges" boolean="true"/>
-			<Input name="bloodSandStance" string="SAND"/>
 			<Input name="skillChainCount" number="6"/>
+			<Input name="bloodSandStance" string="SAND"/>
+			<Input name="useFrenzyCharges" boolean="true"/>
+			<Input name="useEnduranceCharges" boolean="true"/>
+			<Input name="multiplierWitheredStackCount" number="16"/>
 			<Placeholder name="enemySpeed" number="700"/>
 			<Placeholder name="enemyChaosResist" number="30"/>
 			<Placeholder name="enemyLightningDamage" number="2241"/>
@@ -6461,7 +6461,7 @@ Nearby Enemies Convert 25% of their Physical Damage to Fire
 			<Placeholder name="enemyLightningPen" number="3"/>
 			<Placeholder name="enemyLightningResist" number="50"/>
 			<Placeholder name="enemyChaosDamage" number="896"/>
-			<Placeholder name="enemyFirePen" number="3"/>
+			<Placeholder name="enemyEvasion" number="10143"/>
 			<Placeholder name="enemyCritDamage" number="30"/>
 			<Placeholder name="enemyColdPen" number="3"/>
 			<Placeholder name="ScorchStacks" number="1"/>
@@ -6469,15 +6469,15 @@ Nearby Enemies Convert 25% of their Physical Damage to Fire
 			<Placeholder name="enemyArmour" number="61989"/>
 			<Placeholder name="sigilOfPowerStages" number="1"/>
 			<Placeholder name="enemyPhysicalDamage" number="2241"/>
-			<Placeholder name="enemyEvasion" number="10143"/>
+			<Placeholder name="enemyFirePen" number="3"/>
 			<Placeholder name="ShockStacks" number="1"/>
 		</ConfigSet>
 		<ConfigSet title="Pinnacles" id="6">
-			<Input name="useEnduranceCharges" boolean="true"/>
-			<Input name="multiplierWitheredStackCount" number="15"/>
-			<Input name="useFrenzyCharges" boolean="true"/>
-			<Input name="bloodSandStance" string="SAND"/>
 			<Input name="skillChainCount" number="6"/>
+			<Input name="bloodSandStance" string="SAND"/>
+			<Input name="useFrenzyCharges" boolean="true"/>
+			<Input name="multiplierWitheredStackCount" number="15"/>
+			<Input name="useEnduranceCharges" boolean="true"/>
 			<Input name="customMods" string="Merc Leer cast
 50% increased damage
 Asenath + any additional curse item
@@ -6499,7 +6499,7 @@ Kaoms binding"/>
 			<Placeholder name="enemyLightningPen" number="3"/>
 			<Placeholder name="enemyLightningResist" number="50"/>
 			<Placeholder name="enemyChaosDamage" number="896"/>
-			<Placeholder name="enemyEvasion" number="10143"/>
+			<Placeholder name="enemyFirePen" number="3"/>
 			<Placeholder name="enemyCritDamage" number="30"/>
 			<Placeholder name="enemyFireDamage" number="2241"/>
 			<Placeholder name="ScorchStacks" number="1"/>
@@ -6507,15 +6507,15 @@ Kaoms binding"/>
 			<Placeholder name="enemyArmour" number="61989"/>
 			<Placeholder name="sigilOfPowerStages" number="1"/>
 			<Placeholder name="enemyPhysicalDamage" number="2241"/>
-			<Placeholder name="enemyFirePen" number="3"/>
+			<Placeholder name="enemyEvasion" number="10143"/>
 			<Placeholder name="ShockStacks" number="1"/>
 		</ConfigSet>
 		<ConfigSet title="Frenzy Swap Endgame" id="7">
-			<Input name="skillChainCount" number="6"/>
-			<Input name="bloodSandStance" string="SAND"/>
-			<Input name="useEnduranceCharges" boolean="true"/>
-			<Input name="useFrenzyCharges" boolean="true"/>
 			<Input name="multiplierWitheredStackCount" number="15"/>
+			<Input name="useFrenzyCharges" boolean="true"/>
+			<Input name="useEnduranceCharges" boolean="true"/>
+			<Input name="bloodSandStance" string="SAND"/>
+			<Input name="skillChainCount" number="6"/>
 			<Input name="customMods" string="Merc Leer cast
 50% increased damage
 Asenath + any additional curse item
@@ -6537,7 +6537,7 @@ Kaoms binding"/>
 			<Placeholder name="enemyLightningPen" number="3"/>
 			<Placeholder name="enemyLightningResist" number="50"/>
 			<Placeholder name="enemyChaosDamage" number="896"/>
-			<Placeholder name="enemyFirePen" number="3"/>
+			<Placeholder name="enemyEvasion" number="10143"/>
 			<Placeholder name="enemyCritDamage" number="30"/>
 			<Placeholder name="enemyFireDamage" number="2241"/>
 			<Placeholder name="ScorchStacks" number="1"/>
@@ -6545,13 +6545,11 @@ Kaoms binding"/>
 			<Placeholder name="enemyArmour" number="61989"/>
 			<Placeholder name="sigilOfPowerStages" number="1"/>
 			<Placeholder name="enemyPhysicalDamage" number="2241"/>
-			<Placeholder name="enemyEvasion" number="10143"/>
+			<Placeholder name="enemyFirePen" number="3"/>
 			<Placeholder name="ShockStacks" number="1"/>
 		</ConfigSet>
 		<ConfigSet title="MeatSack Farmer" id="8">
-			<Input name="conditionEnemyPoisoned" boolean="true"/>
 			<Input name="useFrenzyCharges" boolean="true"/>
-			<Input name="useEnduranceCharges" boolean="true"/>
 			<Input name="customMods" string="Merc Leer cast
 50% increased damage
 Asenath + any additional curse item
@@ -6560,13 +6558,15 @@ Curse Enemies with Temporal Chains on Hit
 Eternal Struggle
 Kill Enemies that have 15% or lower Life when hit by your skills
 Kaoms binding"/>
-			<Input name="bloodSandStance" string="SAND"/>
+			<Input name="pantheonMajorGod" string="Solaris"/>
 			<Input name="conditionEnemyBlinded" boolean="true"/>
 			<Input name="skillChainCount" number="6"/>
-			<Input name="conditionCritRecently" boolean="true"/>
-			<Input name="pantheonMajorGod" string="Solaris"/>
 			<Input name="multiplierWitheredStackCount" number="15"/>
+			<Input name="conditionEnemyPoisoned" boolean="true"/>
+			<Input name="bloodSandStance" string="SAND"/>
+			<Input name="useEnduranceCharges" boolean="true"/>
 			<Input name="pantheonMinorGod" string="Ryslatha"/>
+			<Input name="conditionCritRecently" boolean="true"/>
 			<Placeholder name="enemySpeed" number="700"/>
 			<Placeholder name="enemyChaosResist" number="30"/>
 			<Placeholder name="enemyLightningDamage" number="2241"/>
@@ -6580,7 +6580,7 @@ Kaoms binding"/>
 			<Placeholder name="enemyLightningPen" number="3"/>
 			<Placeholder name="enemyLightningResist" number="50"/>
 			<Placeholder name="enemyChaosDamage" number="896"/>
-			<Placeholder name="enemyEvasion" number="10143"/>
+			<Placeholder name="enemyFirePen" number="3"/>
 			<Placeholder name="enemyCritDamage" number="30"/>
 			<Placeholder name="enemyFireDamage" number="2241"/>
 			<Placeholder name="ScorchStacks" number="1"/>
@@ -6588,7 +6588,7 @@ Kaoms binding"/>
 			<Placeholder name="enemyArmour" number="61989"/>
 			<Placeholder name="sigilOfPowerStages" number="1"/>
 			<Placeholder name="enemyPhysicalDamage" number="2241"/>
-			<Placeholder name="enemyFirePen" number="3"/>
+			<Placeholder name="enemyEvasion" number="10143"/>
 			<Placeholder name="ShockStacks" number="1"/>
 		</ConfigSet>
 	</Config>
